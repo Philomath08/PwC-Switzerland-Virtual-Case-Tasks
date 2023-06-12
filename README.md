@@ -74,7 +74,7 @@ Dashboard : [Call Centre Trends Analysis](https://github.com/Philomath08/PwC-Swi
 
 # INSIGHTS :-
 
-THe insights drawn from visualization are :
+The insights drawn from visualization are :
 
 - Most of the satisfaction ratings are 3 & 4.
 - The average satisfaction rating is 3.4
