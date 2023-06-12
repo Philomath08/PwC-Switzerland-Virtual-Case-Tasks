@@ -72,4 +72,15 @@ Measures used in this visualization are: (** Here 'Sheet1' is dataset)
 
 Dashboard : [Call Centre Trends Analysis](https://github.com/Philomath08/PwC-Switzerland-Virtual-Case-Tasks/blob/main/PWC_Call_centre_task.pbix)
 
+# INSIGHTS :-
+
+THe insights drawn from visualization are :
+
+- Most of the satisfaction ratings are 3 & 4.
+- The average satisfaction rating is 3.4
+- The average satisfaction rating has decreased over the span of three months. 
+- The percentage of issue resolved in January was the highest, with a dip in February. It increased again in March.
+- The average speed of answer by Joe is the highest.
+- Becky's speed of answer is the lowest among all, and her rate of calls resolved is higher.
+- Martha has the highest speed of answered in the sec.
 
